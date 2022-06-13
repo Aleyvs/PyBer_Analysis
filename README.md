@@ -32,9 +32,9 @@ Urban fares seem to increase as the year progresses. More sales during the sprin
 
 The Business recommendations we can provide based on this analysis are the following:
 
-- Increase the number of drivers in the rural area, this area shows the most profit but the least amount of drivers and total rides. increasing this number might bring the most profit.
+- Increase the number of drivers in the rural area, this area shows the most profit but the least amount of drivers and total rides, increasing this number might bring the most profit.
 
-- Increase pirce of fares in the suburban areas, the number of rides adn drivers in suburban areas increases significantly compared to rural cities but the average fare per ride and per driver is lower.
+- Increase pirce of fares in the suburban areas, the number of rides and drivers in suburban areas increases significantly compared to rural cities but the average fare per ride and per driver is lower.
 
-- For urban areas, based on this study, I would recommend setting a lower limmit on the fare of shortest trips. with this change even if trips are short, you set a minimum on the profit you can gain.  
+- For urban areas, based on this study, I would recommend setting a lower limit on the fare of shortest trips. With this change even if trips are short, you set a minimum on the profit you can gain.  
 
