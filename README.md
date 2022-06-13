@@ -10,8 +10,7 @@ The purpose of this analysis is to show the viewer how the PyBer data differs by
 
 When looking at all three city types we have several differences within our summary.
 
-![summary_DataFrame]
-
+![summary_DataFrame](analysis/summary_DataFrame.png)
 Looking at the dataframe above we can see that the Rural cities have the least number of rides and drivers as well as the least amount of sales during the period but they are the ones the bring the higher fares per ride and driver.
 
 Urban cities bring the most rides and have the most drivers, this correlates with the number of fares but we can see that the average Fare per ride and driver is the lowest of all three. 
@@ -22,7 +21,8 @@ Looking at this dataframe we can see that the most profitable rides are from the
 
 The behavior of the fares throughout the period can be seen on the following line chart.
 
-![linechart]
+![linechart](analysis/PyBer_fare_summary.png)
+
 
 Each spike on the line chart represents a weekly period. With this we can see a different view of the behavior on each city type. 
 
